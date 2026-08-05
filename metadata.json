@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup Squad Builder",
+  "description": "Draft authentic FIFA World Cup squads from 1970 to 2022 to build your ultimate tactical XI in Easy, Medium, or Hard search mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
